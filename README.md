@@ -1,4 +1,4 @@
-# QUtest
+# qutest
 
 ## Description
 The web application comprises 2 screens
